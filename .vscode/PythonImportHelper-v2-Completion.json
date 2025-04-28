@@ -1,0 +1,685 @@
+[
+    {
+        "label": "kb",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "kb",
+        "description": "kb",
+        "detail": "kb",
+        "documentation": {}
+    },
+    {
+        "label": "main_kb",
+        "importPath": "kb",
+        "description": "kb",
+        "isExtraImport": true,
+        "detail": "kb",
+        "documentation": {}
+    },
+    {
+        "label": "channels_kb",
+        "importPath": "kb",
+        "description": "kb",
+        "isExtraImport": true,
+        "detail": "kb",
+        "documentation": {}
+    },
+    {
+        "label": "channel_kb",
+        "importPath": "kb",
+        "description": "kb",
+        "isExtraImport": true,
+        "detail": "kb",
+        "documentation": {}
+    },
+    {
+        "label": "filters_kb",
+        "importPath": "kb",
+        "description": "kb",
+        "isExtraImport": true,
+        "detail": "kb",
+        "documentation": {}
+    },
+    {
+        "label": "filter_kb",
+        "importPath": "kb",
+        "description": "kb",
+        "isExtraImport": true,
+        "detail": "kb",
+        "documentation": {}
+    },
+    {
+        "label": "back_to_filter_menu_kb",
+        "importPath": "kb",
+        "description": "kb",
+        "isExtraImport": true,
+        "detail": "kb",
+        "documentation": {}
+    },
+    {
+        "label": "back_to_channel_menu_kb",
+        "importPath": "kb",
+        "description": "kb",
+        "isExtraImport": true,
+        "detail": "kb",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "create_async_engine",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "DeclarativeBase",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "InlineKeyboardMarkup",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "InlineKeyboardButton",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "ReplyKeyboardMarkup",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "KeyboardButton",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "InlineKeyboardButton",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackQuery",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "ReplyKeyboardRemove",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "InlineKeyboardBuilder",
+        "importPath": "aiogram.utils.keyboard",
+        "description": "aiogram.utils.keyboard",
+        "isExtraImport": true,
+        "detail": "aiogram.utils.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramClient",
+        "importPath": "telethon",
+        "description": "telethon",
+        "isExtraImport": true,
+        "detail": "telethon",
+        "documentation": {}
+    },
+    {
+        "label": "events",
+        "importPath": "telethon",
+        "description": "telethon",
+        "isExtraImport": true,
+        "detail": "telethon",
+        "documentation": {}
+    },
+    {
+        "label": "Button",
+        "importPath": "telethon",
+        "description": "telethon",
+        "isExtraImport": true,
+        "detail": "telethon",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramClient",
+        "importPath": "telethon",
+        "description": "telethon",
+        "isExtraImport": true,
+        "detail": "telethon",
+        "documentation": {}
+    },
+    {
+        "label": "JoinChannelRequest",
+        "importPath": "telethon.tl.functions.channels",
+        "description": "telethon.tl.functions.channels",
+        "isExtraImport": true,
+        "detail": "telethon.tl.functions.channels",
+        "documentation": {}
+    },
+    {
+        "label": "JoinChannelRequest",
+        "importPath": "telethon.tl.functions.channels",
+        "description": "telethon.tl.functions.channels",
+        "isExtraImport": true,
+        "detail": "telethon.tl.functions.channels",
+        "documentation": {}
+    },
+    {
+        "label": "LeaveChannelRequest",
+        "importPath": "telethon.tl.functions.channels",
+        "description": "telethon.tl.functions.channels",
+        "isExtraImport": true,
+        "detail": "telethon.tl.functions.channels",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "db",
+        "description": "db",
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "init_db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "add_channel",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "remove_channel",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_channels",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSessionLocal",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "Channel",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "add_filter",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_filters",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "remove_filter",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Dispatcher",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "types",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "StatesGroup",
+        "importPath": "aiogram.fsm.state",
+        "description": "aiogram.fsm.state",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.state",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "importPath": "aiogram.fsm.state",
+        "description": "aiogram.fsm.state",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.state",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "CommandStart",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "get_channel_info",
+        "importPath": "teleton_client",
+        "description": "teleton_client",
+        "isExtraImport": true,
+        "detail": "teleton_client",
+        "documentation": {}
+    },
+    {
+        "label": "leave_channel_listening",
+        "importPath": "teleton_client",
+        "description": "teleton_client",
+        "isExtraImport": true,
+        "detail": "teleton_client",
+        "documentation": {}
+    },
+    {
+        "label": "generate_all_case_forms",
+        "importPath": "teleton_client",
+        "description": "teleton_client",
+        "isExtraImport": true,
+        "detail": "teleton_client",
+        "documentation": {}
+    },
+    {
+        "label": "inspect",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "inspect",
+        "description": "inspect",
+        "detail": "inspect",
+        "documentation": {}
+    },
+    {
+        "label": "functools",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "functools",
+        "description": "functools",
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "namedtuple",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "product",
+        "importPath": "itertools",
+        "description": "itertools",
+        "isExtraImport": true,
+        "detail": "itertools",
+        "documentation": {}
+    },
+    {
+        "label": "PeerChannel",
+        "importPath": "telethon.tl.types",
+        "description": "telethon.tl.types",
+        "isExtraImport": true,
+        "detail": "telethon.tl.types",
+        "documentation": {}
+    },
+    {
+        "label": "pymorphy2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pymorphy2",
+        "description": "pymorphy2",
+        "detail": "pymorphy2",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 6,
+        "importPath": "app.db",
+        "description": "app.db",
+        "peekOfCode": "class Base(DeclarativeBase):\n    pass\nclass Channel(Base):\n    __tablename__ = 'channels'\n    id: Mapped[int] = mapped_column(primary_key=True, autoincrement=True)\n    channel_id: Mapped[int] = mapped_column(Integer, nullable=False)\n    channel_name: Mapped[str] = mapped_column(String, nullable=True)\nclass Filter(Base):\n    __tablename__ = 'filters'\n    id: Mapped[int] = mapped_column(primary_key=True, autoincrement=True)",
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "Channel",
+        "kind": 6,
+        "importPath": "app.db",
+        "description": "app.db",
+        "peekOfCode": "class Channel(Base):\n    __tablename__ = 'channels'\n    id: Mapped[int] = mapped_column(primary_key=True, autoincrement=True)\n    channel_id: Mapped[int] = mapped_column(Integer, nullable=False)\n    channel_name: Mapped[str] = mapped_column(String, nullable=True)\nclass Filter(Base):\n    __tablename__ = 'filters'\n    id: Mapped[int] = mapped_column(primary_key=True, autoincrement=True)\n    filter_text: Mapped[str] = mapped_column(String, nullable=False)\nasync def init_db():",
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "Filter",
+        "kind": 6,
+        "importPath": "app.db",
+        "description": "app.db",
+        "peekOfCode": "class Filter(Base):\n    __tablename__ = 'filters'\n    id: Mapped[int] = mapped_column(primary_key=True, autoincrement=True)\n    filter_text: Mapped[str] = mapped_column(String, nullable=False)\nasync def init_db():\n    async with async_engine.begin() as conn:\n        await conn.run_sync(Base.metadata.create_all)\nasync def add_channel(channel_name: str, channel_id: int):\n    async with AsyncSessionLocal() as session:\n        query = select(Channel).where(Channel.channel_id == channel_id)",
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "app.db",
+        "description": "app.db",
+        "peekOfCode": "DATABASE_URL = \"sqlite+aiosqlite:///channels.db\"\nasync_engine = create_async_engine(DATABASE_URL, echo=True)\nAsyncSessionLocal = sessionmaker(\n    bind=async_engine,\n    class_=AsyncSession,\n    expire_on_commit=False\n)\nclass Base(DeclarativeBase):\n    pass\nclass Channel(Base):",
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "async_engine",
+        "kind": 5,
+        "importPath": "app.db",
+        "description": "app.db",
+        "peekOfCode": "async_engine = create_async_engine(DATABASE_URL, echo=True)\nAsyncSessionLocal = sessionmaker(\n    bind=async_engine,\n    class_=AsyncSession,\n    expire_on_commit=False\n)\nclass Base(DeclarativeBase):\n    pass\nclass Channel(Base):\n    __tablename__ = 'channels'",
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSessionLocal",
+        "kind": 5,
+        "importPath": "app.db",
+        "description": "app.db",
+        "peekOfCode": "AsyncSessionLocal = sessionmaker(\n    bind=async_engine,\n    class_=AsyncSession,\n    expire_on_commit=False\n)\nclass Base(DeclarativeBase):\n    pass\nclass Channel(Base):\n    __tablename__ = 'channels'\n    id: Mapped[int] = mapped_column(primary_key=True, autoincrement=True)",
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "AddChannel",
+        "kind": 6,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "class AddChannel(StatesGroup):\n    waiting_for_id = State()\nclass FiltersChannels(StatesGroup):\n    add_filter = State()\n# --- Aiogram Handlers ---\n@dp.message(CommandStart())\nasync def cmd_start(message: types.Message):\n    await message.answer(text=\"Привет! Управляй каналами через кнопки ниже ⬇️\", reply_markup = await main_kb())\n@dp.callback_query(F.data == \"channels_info\")\nasync def get_filters_info(callback: CallbackQuery):",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "FiltersChannels",
+        "kind": 6,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "class FiltersChannels(StatesGroup):\n    add_filter = State()\n# --- Aiogram Handlers ---\n@dp.message(CommandStart())\nasync def cmd_start(message: types.Message):\n    await message.answer(text=\"Привет! Управляй каналами через кнопки ниже ⬇️\", reply_markup = await main_kb())\n@dp.callback_query(F.data == \"channels_info\")\nasync def get_filters_info(callback: CallbackQuery):\n    await callback.message.edit_text(text='Меню каналов', reply_markup = await channels_kb())\n@dp.callback_query(F.data == \"add_channel\")",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "register_handler",
+        "kind": 2,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "def register_handler():\n    global current_handler\n    if current_handler:\n        telethon_client.remove_event_handler(current_handler)\n        print(\"❌ Старый обработчик удалён\")\n    @telethon_client.on(events.NewMessage(chats=CHANNELS))\n    async def new_channel_message_handler(event):\n        chan = await event.get_chat()\n        text = event.message.message or '<без текста>'\n        text = text.lower()",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "api_id",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "api_id = \napi_hash = ''\nphone_number = ''\nbot_token = ''\ncurrent_handler = None  # Храним текущий обработчик\nCHANNELS = []  # Текущий список каналов для слежения\n# --- Telethon клиент ---\ntelethon_client = TelegramClient('session_name', api_id, api_hash)\n# --- Aiogram бот ---\nbot = Bot(token=bot_token)",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "api_hash",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "api_hash = ''\nphone_number = ''\nbot_token = ''\ncurrent_handler = None  # Храним текущий обработчик\nCHANNELS = []  # Текущий список каналов для слежения\n# --- Telethon клиент ---\ntelethon_client = TelegramClient('session_name', api_id, api_hash)\n# --- Aiogram бот ---\nbot = Bot(token=bot_token)\ndp = Dispatcher()",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "phone_number",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "phone_number = ''\nbot_token = ''\ncurrent_handler = None  # Храним текущий обработчик\nCHANNELS = []  # Текущий список каналов для слежения\n# --- Telethon клиент ---\ntelethon_client = TelegramClient('session_name', api_id, api_hash)\n# --- Aiogram бот ---\nbot = Bot(token=bot_token)\ndp = Dispatcher()\n# --- FSM States ---",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "bot_token",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "bot_token = ''\ncurrent_handler = None  # Храним текущий обработчик\nCHANNELS = []  # Текущий список каналов для слежения\n# --- Telethon клиент ---\ntelethon_client = TelegramClient('session_name', api_id, api_hash)\n# --- Aiogram бот ---\nbot = Bot(token=bot_token)\ndp = Dispatcher()\n# --- FSM States ---\nclass AddChannel(StatesGroup):",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "current_handler",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "current_handler = None  # Храним текущий обработчик\nCHANNELS = []  # Текущий список каналов для слежения\n# --- Telethon клиент ---\ntelethon_client = TelegramClient('session_name', api_id, api_hash)\n# --- Aiogram бот ---\nbot = Bot(token=bot_token)\ndp = Dispatcher()\n# --- FSM States ---\nclass AddChannel(StatesGroup):\n    waiting_for_id = State()",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "CHANNELS",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "CHANNELS = []  # Текущий список каналов для слежения\n# --- Telethon клиент ---\ntelethon_client = TelegramClient('session_name', api_id, api_hash)\n# --- Aiogram бот ---\nbot = Bot(token=bot_token)\ndp = Dispatcher()\n# --- FSM States ---\nclass AddChannel(StatesGroup):\n    waiting_for_id = State()\nclass FiltersChannels(StatesGroup):",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "telethon_client",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "telethon_client = TelegramClient('session_name', api_id, api_hash)\n# --- Aiogram бот ---\nbot = Bot(token=bot_token)\ndp = Dispatcher()\n# --- FSM States ---\nclass AddChannel(StatesGroup):\n    waiting_for_id = State()\nclass FiltersChannels(StatesGroup):\n    add_filter = State()\n# --- Aiogram Handlers ---",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "bot",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "bot = Bot(token=bot_token)\ndp = Dispatcher()\n# --- FSM States ---\nclass AddChannel(StatesGroup):\n    waiting_for_id = State()\nclass FiltersChannels(StatesGroup):\n    add_filter = State()\n# --- Aiogram Handlers ---\n@dp.message(CommandStart())\nasync def cmd_start(message: types.Message):",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "dp",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "dp = Dispatcher()\n# --- FSM States ---\nclass AddChannel(StatesGroup):\n    waiting_for_id = State()\nclass FiltersChannels(StatesGroup):\n    add_filter = State()\n# --- Aiogram Handlers ---\n@dp.message(CommandStart())\nasync def cmd_start(message: types.Message):\n    await message.answer(text=\"Привет! Управляй каналами через кнопки ниже ⬇️\", reply_markup = await main_kb())",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "getargspec",
+        "kind": 2,
+        "importPath": "app.teleton_client",
+        "description": "app.teleton_client",
+        "peekOfCode": "def getargspec(func):\n    \"\"\"Legacy wrapper for inspect.getfullargspec().\"\"\"\n    spec = inspect.getfullargspec(func)\n    return ArgSpec(\n        args=spec.args,\n        varargs=spec.varargs,\n        keywords=spec.varkw,\n        defaults=spec.defaults,\n    )\ninspect.getargspec = getargspec",
+        "detail": "app.teleton_client",
+        "documentation": {}
+    },
+    {
+        "label": "ArgSpec",
+        "kind": 5,
+        "importPath": "app.teleton_client",
+        "description": "app.teleton_client",
+        "peekOfCode": "ArgSpec = namedtuple('ArgSpec', ['args', 'varargs', 'keywords', 'defaults'])\ndef getargspec(func):\n    \"\"\"Legacy wrapper for inspect.getfullargspec().\"\"\"\n    spec = inspect.getfullargspec(func)\n    return ArgSpec(\n        args=spec.args,\n        varargs=spec.varargs,\n        keywords=spec.varkw,\n        defaults=spec.defaults,\n    )",
+        "detail": "app.teleton_client",
+        "documentation": {}
+    },
+    {
+        "label": "inspect.getargspec",
+        "kind": 5,
+        "importPath": "app.teleton_client",
+        "description": "app.teleton_client",
+        "peekOfCode": "inspect.getargspec = getargspec\nimport db\nfrom telethon import TelegramClient\nfrom itertools import product\nfrom telethon.tl.functions.channels import JoinChannelRequest, LeaveChannelRequest\nfrom telethon.tl.types import PeerChannel\nimport pymorphy2\nasync def get_channel_info(channel_id_or_name, client, phone_number):\n    await client.start(phone=phone_number)\n    channel_id_or_name = str(channel_id_or_name)",
+        "detail": "app.teleton_client",
+        "documentation": {}
+    }
+]
